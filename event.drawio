@@ -1,105 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T08:19:11.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9GOksoYZqLDYHS7f7RQa" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T09:34:26.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Vkg96XgDt_C1M4_3heBP" version="22.1.4" type="github">
   <diagram name="페이지-1" id="AxXZHzaRcRMsWfZ9CsZy">
-    <mxGraphModel dx="1172" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1315" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-1" value="collection-user-recent-stat-update-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="650" width="250" height="40" as="geometry" />
+          <mxGeometry x="660" y="589" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-2" value="collection-operation-artist-updated-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="740" width="250" height="40" as="geometry" />
+          <mxGeometry x="1272" y="740" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-3" value="weverse-dm-subscription-day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-3" value="weverse-dm-subscription-day" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="485" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-4" value="collection-operation-badge-metadata-dm-created-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="140" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-4" value="collection-operation-badge-metadata-dm-created-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="535" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-6" value="collection-user-badge-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="220" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-6" value="collection-user-badge-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="250" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-7" value="collection-user-collectable-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="270" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-7" value="collection-user-collectable-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="307" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-8" value="collection-artist-activity-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="860" width="250" height="40" as="geometry" />
+          <mxGeometry x="1272" y="860" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-9" value="collection-artist-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="922" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-9" value="collection-artist-identity-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="922" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-11" value="collection-artist-badge-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2057" y="921" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-11" value="collection-artist-badge-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1889" y="921" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-12" value="collection-user-collectable-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="340" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-12" value="collection-user-collectable-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="300" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-13" value="collection-user-my-artist-migration-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="390" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-13" value="collection-user-my-artist-migration-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-14" value="collection-user-activity-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="330" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-14" value="collection-user-activity-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="365" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-16" value="collection-user-badge-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="290" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-16" value="collection-user-badge-issued-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="250" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-17" value="collection-user-ws-order-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-17" value="collection-user-ws-order-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="660" y="690" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-18" value="collection-user-wv-purchase-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-18" value="collection-user-wv-purchase-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-19" value="collection-artist-recent-stat-update-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="660" y="740" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-20" value="collection-user-recent-statistics-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="650" width="250" height="40" as="geometry" />
+          <mxGeometry x="1272" y="589" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-21" value="weverse-dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="110" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-21" value="weverse-dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="535" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-22" value="weverse-media-action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-22" value="weverse-media-action" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="434" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-23" value="collection-user-badge-external-submitted-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="360" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-23" value="collection-user-badge-external-submitted-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="384.5" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-24" value="collection-collectable-external-submitted-topic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="250" height="40" as="geometry" />
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-24" value="collection-collectable-external-submitted-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="335" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-27" target="Hu20n-Qd5BMdo4HiK3WD-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-27" value="&lt;i&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;collection-user-recent-statistics-user-group&lt;/font&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1653" y="645" width="100" height="50" as="geometry" />
+          <mxGeometry x="1535" y="584" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-35" target="Hu20n-Qd5BMdo4HiK3WD-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="610" as="sourcePoint" />
+            <mxPoint x="650" y="549" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-28" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-recent-stat-update-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="645" width="100" height="50" as="geometry" />
+          <mxGeometry x="920" y="584" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-34" value="&lt;i&gt;UserRecentStatisticsHandler&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;user_recent_statistics MySQL 저장&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1772" y="647.5" width="171" height="45" as="geometry" />
+          <mxGeometry x="1654" y="586.5" width="176" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-28" target="Hu20n-Qd5BMdo4HiK3WD-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737" y="670" as="sourcePoint" />
-            <mxPoint x="1390" y="670" as="targetPoint" />
+            <mxPoint x="737" y="286" as="sourcePoint" />
+            <mxPoint x="1390" y="286" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-35" value="&lt;i&gt;UserStatUpdateHandler&lt;/i&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;유저 지표 MongoDB 업데이트&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1046" y="645" width="170" height="50" as="geometry" />
+          <mxGeometry x="1046" y="584" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-39" target="Hu20n-Qd5BMdo4HiK3WD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-39" value="커뮤니티 컬렉션 홈&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;나의 컬렉션 정보 최초 조회시, 초기화&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="645" width="160" height="50" as="geometry" />
+          <mxGeometry x="420" y="584" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-41" target="Hu20n-Qd5BMdo4HiK3WD-1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-41" value="데이터플랫폼" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="419" y="707" width="160" height="165" as="geometry" />
+          <mxGeometry x="419" y="714" width="160" height="152" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-44" target="Hu20n-Qd5BMdo4HiK3WD-45">
           <mxGeometry relative="1" as="geometry" />
@@ -119,8 +119,8 @@
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-45" target="Hu20n-Qd5BMdo4HiK3WD-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1350" y="815" />
-              <mxPoint x="1350" y="880" />
+              <mxPoint x="1250" y="815" />
+              <mxPoint x="1250" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -146,16 +146,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-55" value="&lt;i&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;collection-operation-&lt;br&gt;dm-reprocess-grp&lt;/font&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="735" width="100" height="50" as="geometry" />
+          <mxGeometry x="1536" y="735" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-56" value="&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;OperationDmFailEventReprocessHandler&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;DM 실패 이벤트 재 처리&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1772" y="737.5" width="201" height="45" as="geometry" />
+          <mxGeometry x="1654" y="737.5" width="216" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-60" target="Hu20n-Qd5BMdo4HiK3WD-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;collection-artist-activity-issue-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="855" width="100" height="50" as="geometry" />
+          <mxGeometry x="1536" y="855" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-61" target="Hu20n-Qd5BMdo4HiK3WD-11">
           <mxGeometry relative="1" as="geometry" />
@@ -164,27 +164,135 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-61" value="&lt;font style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;ArtistBadgeActivityIssueHandler&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;아티스트 배지 발행&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1772" y="858" width="178" height="45" as="geometry" />
+          <mxGeometry x="1654" y="858" width="178" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-71" value="&lt;i&gt;ArtistReceivedBadgeCreateHandler&lt;/i&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;artist_received_badges&amp;nbsp;MySQL 저장&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2057" y="858" width="210" height="45.5" as="geometry" />
+          <mxGeometry x="1889" y="858" width="210" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-74" target="Hu20n-Qd5BMdo4HiK3WD-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-74" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;collection-artist-badge-identity-issue-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="917" width="100" height="50" as="geometry" />
+          <mxGeometry x="1536" y="917" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-75" target="Hu20n-Qd5BMdo4HiK3WD-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-75" target="Hu20n-Qd5BMdo4HiK3WD-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2050" y="972.75" as="targetPoint" />
+            <mxPoint x="1932" y="972.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-75" value="&lt;i&gt;ArtistBadgeIdentityIssueHandler&lt;/i&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;아티스트 배지 발급/취소 리스너 처리&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1773.5" y="919" width="178" height="45" as="geometry" />
+          <mxGeometry x="1655.5" y="919" width="178" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-82" target="Hu20n-Qd5BMdo4HiK3WD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-82" value="컬렉션 어드민&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;아티스트 배지 수동 발급&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="917" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-90" target="Hu20n-Qd5BMdo4HiK3WD-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="390.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-90" target="Hu20n-Qd5BMdo4HiK3WD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-90" value="쿠폰, 설문, 투표 어드민&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="355" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Hu20n-Qd5BMdo4HiK3WD-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.625" y="453.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-94" value="라이브 시청 이벤트" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="418.5" width="171" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-96" target="Hu20n-Qd5BMdo4HiK3WD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-96" target="Hu20n-Qd5BMdo4HiK3WD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-96" value="DM 구독 이벤트" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401.5" y="489" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-99" target="Hu20n-Qd5BMdo4HiK3WD-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-99" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-wv-purchase-group&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="920" y="642" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-100" target="Hu20n-Qd5BMdo4HiK3WD-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-100" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-dm-operation-grp&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="538" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-101" target="Hu20n-Qd5BMdo4HiK3WD-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-101" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-wv-purchase-group&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="920" y="687" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-102" value="&lt;i&gt;UserWvPurchasedHandler&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="647" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-104" value="&lt;i&gt;UserWsOrderedHandler&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="692" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-106" target="Hu20n-Qd5BMdo4HiK3WD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-106" value="&lt;font style=&quot;&quot;&gt;&lt;i&gt;OperationDmHandler&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;DM 배지 메타데이터 저장&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="532" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-109" target="Hu20n-Qd5BMdo4HiK3WD-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-109" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-dm-subscription-reprocess-grp&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="527" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-110" value="&lt;i&gt;UserDmSubscriptionFailEventReprocessHandler&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;DM 구독 실패 이벤트 재 처리&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="529.5" width="266" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-112" target="Hu20n-Qd5BMdo4HiK3WD-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-112" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-dm-subscription-operation-grp&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="482" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-113" target="Hu20n-Qd5BMdo4HiK3WD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-113" value="&lt;font style=&quot;&quot;&gt;&lt;i&gt;UserDmSubscriptionHandler&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;DM 배지 발급&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="484" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-116" target="Hu20n-Qd5BMdo4HiK3WD-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-116" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-live-stream-grp&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="430" width="90" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-117" target="Hu20n-Qd5BMdo4HiK3WD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-117" value="&lt;font style=&quot;&quot;&gt;&lt;i&gt;UserLiveStreamHandler&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;라이브 배지 발급&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="430" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-122" target="Hu20n-Qd5BMdo4HiK3WD-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-122" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-badge-submit-for-external-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="375" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hu20n-Qd5BMdo4HiK3WD-123" value="&lt;font style=&quot;&quot;&gt;&lt;i&gt;UserBadgeExternalSubmitHandler&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;라이브 배지 발급&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="377" width="185" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
