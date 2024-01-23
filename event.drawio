@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T15:06:45.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xCTu8KTwUtvm-FdrQ-Kg" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T07:41:17.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AFY5UUkQP4-HpH-HuREz" version="22.1.17" type="github">
   <diagram name="Kafka Event" id="AxXZHzaRcRMsWfZ9CsZy">
-    <mxGraphModel dx="2446" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,7 +416,7 @@
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-163" value="&lt;i style=&quot;&quot;&gt;UserBadgeIdentityIssueHandler&lt;br&gt;&lt;/i&gt;&lt;font size=&quot;1&quot;&gt;유저 배지 발급&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1487" y="373.5" width="196" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-174" target="Hu20n-Qd5BMdo4HiK3WD-175">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hu20n-Qd5BMdo4HiK3WD-174" target="Hu20n-Qd5BMdo4HiK3WD-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hu20n-Qd5BMdo4HiK3WD-174" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-collectable-identity-issue-revoke-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -557,24 +557,24 @@
         <mxCell id="DTHHv9JEVWMg8IJcQIcM-5" value="&lt;font style=&quot;&quot;&gt;&lt;i&gt;UserMyArtistForceUpdateHandler&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;마이아티스트 MySQL 및 캐시 갱신&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="822" y="80" width="205" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LvHx6EUab8GpIi02F8R-1" target="3LvHx6EUab8GpIi02F8R-2">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3LvHx6EUab8GpIi02F8R-1" target="3LvHx6EUab8GpIi02F8R-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-1" value="컬렉션 데이터플랫폼" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-1" value="컬렉션 데이터플랫폼" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="196" y="714" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-2" value="&amp;nbsp;collection-user-shop-purchase-update-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-2" value="&amp;nbsp;collection-user-shop-purchase-update-topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="437" y="815" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LvHx6EUab8GpIi02F8R-5">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3LvHx6EUab8GpIi02F8R-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="834.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-5" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-&lt;br&gt;shop-purchase-update-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-5" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;collection-user-&lt;br&gt;shop-purchase-update-group&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="697" y="810" width="103" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LvHx6EUab8GpIi02F8R-6" target="Hu20n-Qd5BMdo4HiK3WD-14">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="3LvHx6EUab8GpIi02F8R-6" target="Hu20n-Qd5BMdo4HiK3WD-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1029" y="830" />
@@ -582,17 +582,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-6" value="&lt;i&gt;UserShopPurchaseUpdateHandler&lt;/i&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;유저 샵 구매 지표 MongoDB 업데이트&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LvHx6EUab8GpIi02F8R-6" value="&lt;i&gt;UserShopPurchaseUpdateHandler&lt;/i&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;유저 샵 구매 지표 MongoDB 업데이트&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="823" y="805" width="197" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-13" value="UserCollectableScheduledIssueCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="25" width="244" height="100" as="geometry" />
+        <mxCell id="q7XmvN802ZRIFYaIF1rW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LvHx6EUab8GpIi02F8R-13" target="Hu20n-Qd5BMdo4HiK3WD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="480" />
+              <mxPoint x="1720" y="357" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-14" value="UserBadgeScheduledIssueCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="25" width="244" height="100" as="geometry" />
+        <mxCell id="3LvHx6EUab8GpIi02F8R-13" value="UserCollectableScheduledIssueCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="449" width="244" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="3LvHx6EUab8GpIi02F8R-15" value="UserReceivedBadgeStatisticsCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="q7XmvN802ZRIFYaIF1rW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LvHx6EUab8GpIi02F8R-14" target="Hu20n-Qd5BMdo4HiK3WD-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="548" />
+              <mxPoint x="1720" y="632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LvHx6EUab8GpIi02F8R-14" value="UserBadgeScheduledIssueCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="520" width="244" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3LvHx6EUab8GpIi02F8R-15" value="UserReceivedBadgeStatisticsCronJob" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2161" y="24" width="244" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XmvN802ZRIFYaIF1rW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q7XmvN802ZRIFYaIF1rW-4" target="3LvHx6EUab8GpIi02F8R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XmvN802ZRIFYaIF1rW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7XmvN802ZRIFYaIF1rW-4" target="3LvHx6EUab8GpIi02F8R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XmvN802ZRIFYaIF1rW-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;USER_BADGE_SCHEDULED_ISSUES&lt;br&gt;USER_COLLECTABLE_SCHEDULED_ISSUES&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.5;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="483.5" width="201" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
